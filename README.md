@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bruyo
-- 👀 I’m interested in sustainability and technology 
-- 🌱 I’m currently learning cloud computing/DevOps
+- 👀 I’m a budding professional actively interested in curating best practices for fast and easy release of solutions. 
+- 🌱 Using DevOps as a major tool.
 
 
 
